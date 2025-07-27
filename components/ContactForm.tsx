@@ -54,7 +54,7 @@ export default function ContactForm() {
             required
           />
 
-          <Button variant="default" className = 'w-full bg-[tomato]'>Submit</Button>
+          <Button variant="default" className = 'w-full bg-[tomato] text-black hover:text-white hover:bg-[tomato]'>Submit</Button>
         </form>
       </CardContent>
     </Card>

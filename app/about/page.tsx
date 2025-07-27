@@ -19,11 +19,11 @@ export default function AboutPage() {
         <CardContent className="p-6 text-center space-y-4">
           <h1 className="text-3xl font-bold text-gray-800">About Me</h1>
           <p className="text-base leading-relaxed text-gray-700">
-            I'm a passionate software developer with a love for building clean, user-friendly interfaces. 
+            I&#39;m a passionate software developer with a love for building clean, user-friendly interfaces. 
             I started this journey out of curiosity and quickly fell in love with the process of turning ideas into working applications.
           </p>
             <p className="mt-4 text-base leading-relaxed text-gray-700">
-              Currently, I'm exploring the world of <span className="font-semibold text-[tomato]">Next.js</span> and sharpening my skills in creating responsive and interactive web experiences. 
+              Currently, I&#39;m exploring the world of <span className="font-semibold text-[tomato]">Next.js</span> and sharpening my skills in creating responsive and interactive web experiences. 
               I enjoy learning by building, and each project helps me grow a little more.
             </p>
 

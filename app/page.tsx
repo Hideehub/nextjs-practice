@@ -21,7 +21,7 @@ export default function HomePage() {
         /> 
         */}
 
-        <h1 className="text-4xl font-bold mb-2">Hi, I'm Rukayat</h1>
+        <h1 className="text-4xl font-bold mb-2">Hi, I&#39;m Rukayat</h1>
         <p className="text-lg text-black mb-4">
           Software developer, building my future one line of code at a time.
         </p>
